@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height:100vh;
+}
+button{
+    padding:10px 25px;
+    border-radius: 20px;
+    background-color:slateblue;
+    color:#fff;
+    font-size: 1.5rem;
+}
+
+h1{
+    background-color: #333;
+    color:rgba(255, 255, 255, 0.77);
+    padding:25px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    /* background: linear-gradient(010deg,#48DE21,#48DE21); */
+}
